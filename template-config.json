@@ -1,0 +1,25 @@
+{
+  "RoomName": "Example Room",
+  "HelpHeading": "Phone Support:",
+  "HelpDeskNumber": "(555) 555-5555",
+  "HelpRequests": [
+    "Room Audio isn't Working",
+    "Room Video isn't Working",
+    "RoomPcSpaceBarIsn'tWorking",
+    "Room PC is Offline",
+    "Room is Too Hot",
+    "Room is Too Cold",
+    "Room is on Fire"
+  ],
+  "HelpResponses": [
+    "Have you tried turning it off and on again?",
+    "We're opening up a ticket in your honor",
+    "We've reached out to facilities",
+    "Help is on the way"
+  ],
+  "Sources": [
+    { "Name": "Meeting", "CSS": "icon-teams" },
+    { "Name": "Laptop", "CSS": "icon-laptop" },
+    { "Name": "Wireless", "CSS": "icon-cast" }
+  ]
+}
