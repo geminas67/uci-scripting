@@ -1,0 +1,16 @@
+{
+  "Announcements": [
+    { "Text": "There are Cookies in the Break Room!", "Status": 0 },
+    { "Text": "There is Ice Cream in the Break Room!!", "Status": 0 },
+    { "Text": "There is a Bear in the Break Room!!!!", "Status": 5 },
+    { "Text": "The Eagle Has Landed", "Status": 1 },
+    {
+      "Text": "Bring a shrubbery to the courtyard, one that looks nice ... and not too expensive",
+      "Status": 1
+    },
+    {
+      "Text": "There is a strange woman in the pond in the courtyard. She's distributing swords",
+      "Status": 2
+    }
+  ]
+}
