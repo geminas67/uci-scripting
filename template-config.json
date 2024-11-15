@@ -1,26 +1,19 @@
 {
-  "RoomName": "Temp Room",
+  "RoomName": "Template Room",
   "HelpHeading": "Phone Support:",
   "HelpDeskNumber": "(555) 555-5555",
   "HelpRequests": [
-    "(╯°□°）╯︵ ┻━┻",
     "Room Audio isn't Working",
     "Room Video isn't Working",
-    "RoomPcSpaceBarIsn'tWorking",
-    "Room PC is Offline",
-    "Room is Too Hot",
-    "Room is Too Cold",
-    "Room is on Fire"
+    "RoomPcSpaceBarIsn'tWorking"
   ],
   "HelpResponses": [
     "Have you tried turning it off and on again?",
-    "We're opening up a ticket in your honor",
-    "We've reached out to facilities",
-    "Help is on the way"
+    "Have you tried unplugging it and plugging it back in?"
   ],
   "Sources": [
-    { "Name": "Temp Meeting", "CSS": "icon-teams" },
-    { "Name": "Temp Laptop", "CSS": "icon-laptop" },
-    { "Name": "Temp Meeting", "CSS": "icon-cast" }
+    { "Name": "Meeting", "CSS": "icon-teams" },
+    { "Name": "Laptop", "CSS": "icon-laptop" },
+    { "Name": "Wireless", "CSS": "icon-cast" }
   ]
 }
