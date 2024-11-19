@@ -1,6 +1,6 @@
-# Command Send and Receive Plugin Tutorials
+# Script Notifications Tutorial
 
-Tutorial files that demonstrate how to use scripting notifications. This file was created for the Q-SYS Communities for Developers platform. Please join Communities for access to more content for developers.
+Tutorial file that demonstrates how to use scripting notifications. This file was created for the Q-SYS Communities for Developers platform. Please join Communities for access to more content for developers.
 
 ## Description
 
@@ -52,6 +52,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
+- Shogo Hori for a plugin used in the easter egg challenge
 - [Eugene Dunn III](https://github.com/QSC-Eugene) for QA support
 - [Thomas Holt-Ronczy](https://github.com/qsc-thomasholtronczy) for end user testing
 - Curtis Harnish for end user testing
