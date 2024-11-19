@@ -53,3 +53,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Acknowledgments
 
 - [Eugene Dunn III](https://github.com/QSC-Eugene) for QA support
+- [Thomas Holt-Ronczy](https://github.com/qsc-thomasholtronczy) for end user testing
+- Curtis Harnish for end user testing
